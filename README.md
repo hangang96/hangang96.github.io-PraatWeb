@@ -38,7 +38,8 @@ PraatWeb folder includes two subdirectories:
 
 
 #####################
-## References and Citation
+## 参考文献
+Domínguez M, Latorre I, Farrús M, Codina-Filbà J, Wanner L. Praat on the Web: An Upgrade of Praat for Semi-Automatic Speech  Annotation. 26th International Conference on Computational Linguistics (COLING 2016) Osaka, Japan p. 218-222
 #####################
 
 If you use this software and/or modify the code please cite the following publication:
